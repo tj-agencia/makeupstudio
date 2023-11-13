@@ -1,0 +1,13 @@
+#buttons_links {
+    padding-block: 1rem;
+}
+
+#buttons button {
+    margin-bottom: .5rem;
+    background-color: pink;
+    border-color: black;
+}
+
+#buttons button:hover {
+    background-color: rgb(255, 148, 166);
+}
