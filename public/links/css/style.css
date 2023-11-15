@@ -1,15 +1,23 @@
 header {
-    height: 400px;
+    height: 300px;
     width:100%;
     padding-top: 10rem;
+    background-image: url("/public/images/IMG_5872.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
 
 #perfil {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-}
+    width: 150px;
+    height: 150px;
+} #imagem {padding-top: 5rem;}
 
+#main {
+    margin-top: 10rem;
+    height: 40vh;
+}
 #buttons_links {
     padding-block: 1rem;
 }
