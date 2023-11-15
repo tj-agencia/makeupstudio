@@ -1,13 +1,25 @@
+header {
+    height: 400px;
+    width:100%;
+    padding-top: 10rem;
+}
+
+#perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
 #buttons_links {
     padding-block: 1rem;
 }
 
 #buttons button {
-    margin-bottom: .5rem;
-    background-color: pink;
-    border-color: black;
+    color:#12115c;
+    background-color: rgb(255, 255, 255);
+    border-color: pink;
 }
 
 #buttons button:hover {
-    background-color: rgb(255, 148, 166);
+    background-color: rgb(216, 139, 152);
 }
