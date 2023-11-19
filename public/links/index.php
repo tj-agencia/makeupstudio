@@ -14,7 +14,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Nunito:wght@300&display=swap');
       body {
-        background-image: url("/public/images/logo.webp");
+        background-image: url("/public/links/images/logo.webp");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -23,7 +23,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
         height: 300px;
         width:100%;
         padding-top: 10rem;
-        background-image: url("/public/images/IMG_5872.webp");
+        background-image: url("/public/links/images/IMG_5872.webp");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -101,7 +101,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
   <!-----------zona-perfil--imagem-e-nome-------->
     <nav id="zona-perfil">
       <div id="imagem">
-      <img id="perfil" src="/public/images/IMG_5870.webp" class="img-fluid rounded mx-auto d-block shadow-lg" style="border: solid 3px #dd7a89;" alt="...">
+      <img id="perfil" src="/public/links/images/IMG_5870.webp" class="img-fluid rounded mx-auto d-block shadow-lg" style="border: solid 3px #dd7a89;" alt="...">
     </div>
       <h1 id="nome" class="text-center"><p id="subnome" class="h5 text-center"><strong>Maquiadora Profissional</strong></p>Sabrina Freire</h1>
     </nav>
@@ -122,7 +122,7 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
           </div>
         </div>
         <div class="text-center container">
-          <img id="logo" src="/public/images/logosabrina.webp" alt="">
+          <img id="logo" src="/public/links/images/logosabrina.webp" alt="">
         </div>
     </section>
 <!-------------rodapé---------------->
