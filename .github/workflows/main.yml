@@ -17,7 +17,5 @@ jobs:
         server: ${{ secrets.ftp_host }}
         username: ${{ secrets.ftp_user }}
         password: ${{ secrets.ftp_password }}
-        # Adiciona a linha abaixo para especificar o diretório remoto correto
+        local-dir: ./public_html/
         remote-dir: /public_html/
-        # Especifica qual diretório local deve ser sincronizado, se necessário
-        # local-dir: ./path/to/your/local-directory/ 
