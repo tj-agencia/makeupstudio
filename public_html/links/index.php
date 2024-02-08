@@ -1,5 +1,5 @@
 <?php
-// Configuração para desabilitar o cache
+// Configuração para desabilitar o cache...
 header("Cache-Control: no-cache, must-revalidate");
 header("Expires: Sat, 26 Jul 1997 05:00:00 GMT");
 ?>
